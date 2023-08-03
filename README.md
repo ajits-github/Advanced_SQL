@@ -1,7 +1,7 @@
 # Advanced_SQL
 A look into some of the advanced topics of SQL based on PostgreSQL
 * Window functions
-* Frmaing, Exclusions and shortcuts
+* Framing, Exclusions and shortcuts
 * Aggregate Window functions
 * Rank and Distribution window functions
 * Offset window functions
